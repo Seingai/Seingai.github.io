@@ -7,44 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Seingai</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Seingai.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://Seingai.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Seingai.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>科学</title>
+        <link>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</link>
+        <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://Seingai.github.io/categories/test/</guid>
-        <description>&lt;img src="https://Seingai.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</guid>
+        <description>&lt;img src="https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 科学" /&gt;</description>
         </item>
         <item>
-        <title>测试</title>
-        <link>https://Seingai.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <title>随笔</title>
+        <link>https://Seingai.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://Seingai.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://Seingai.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>https://Seingai.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>人文</title>
+        <link>https://Seingai.github.io/categories/%E4%BA%BA%E6%96%87/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Seingai.github.io/categories/syntax/</guid>
+        <guid>https://Seingai.github.io/categories/%E4%BA%BA%E6%96%87/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>https://Seingai.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>神学</title>
+        <link>https://Seingai.github.io/categories/%E7%A5%9E%E5%AD%A6/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Seingai.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://Seingai.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://Seingai.github.io/categories/test-with-whitespaces/</guid>
+        <guid>https://Seingai.github.io/categories/%E7%A5%9E%E5%AD%A6/</guid>
         <description></description>
         </item>
         
