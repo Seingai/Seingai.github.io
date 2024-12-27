@@ -8,12 +8,12 @@
         <language>zh-cn</language>
         <copyright>Seingai</copyright>
         <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Seingai.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>科学</title>
-        <link>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</link>
+        <title>工程</title>
+        <link>https://Seingai.github.io/categories/%E5%B7%A5%E7%A8%8B/</link>
         <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</guid>
-        <description>&lt;img src="https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 科学" /&gt;</description>
+        <guid>https://Seingai.github.io/categories/%E5%B7%A5%E7%A8%8B/</guid>
+        <description></description>
         </item>
         <item>
         <title>随笔</title>
@@ -22,6 +22,14 @@
         
         <guid>https://Seingai.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>科学</title>
+        <link>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/</guid>
+        <description>&lt;img src="https://Seingai.github.io/categories/%E7%A7%91%E5%AD%A6/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 科学" /&gt;</description>
         </item>
         <item>
         <title>人文</title>
